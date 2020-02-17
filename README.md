@@ -16,6 +16,9 @@
 # the results will bw written to a Gradescope-readable
 # JSON file.
 #
+# You must change Line 20 of autograde_ps1.R in order to be able to write the autograder output
+# on the server in the correct location.
+#
 # Author: Michael Guerzhoy guerzhoy@princeton.edu
 
 
