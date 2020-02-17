@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# Set up autograder files
+
+cp /autograder/submission/ps1.R /autograder/source/ps1.R
+
+cd /autograder/source
+
+
+Rscript autograde_ps1.R 
